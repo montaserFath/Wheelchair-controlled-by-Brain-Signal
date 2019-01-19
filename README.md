@@ -30,20 +30,41 @@ EEG signals sensor, produced by [emotiv](https://emotiv.com), 14 channel mobile 
 
 ![emotiv](https://github.com/montaserFath/Wheelchair-controlled-by-Brain-Signal/blob/master/images/emotiv.png)
 
-## Wheelchair
-
-## 
 
 # How it works?
 
+There are three components:
+
+- EEG signals capturing and processing (Emotiv epoc sensor, Neural Network for processing EEG).
+
+- Communication (Input: Neural Network output, Output Signals to Wheelchair controller).
+
+- Wheelchair controller (Ardunio, Ultrasonics sensors, Servo motors, DC motors and Bluetooth module).
+
+
 ![all](https://github.com/montaserFath/Wheelchair-controlled-by-Brain-Signal/blob/master/images/bci.png)
+
+# Prizes
+
+- Patent number (4254) Sudan 
+
+- [AUDIENCE AWARD Falling Walls Lab Finals 2017](https://falling-walls.com/lab/young-innovators-of-the-year-2017/winner2017-montaser-mohammedalamen)
+
+- First prize at Creative Students Forum (Association of Arab Universities), Egypt.
+
+- Undergraduate research prize University of Khartoum, Sudan
 
 # Media
 
-# Prizes
+- [Falling Walls Lab Berlin](https://youtu.be/ZpqypVq8Qgo)
+
+- [Blue Nile Interview](https://youtu.be/dvuIe8c-Xac)
+
+- [Tenchologya Interview](https://www.youtube.com/watch?v=LN_7vt4fjq4&t=7s)
 
 # Installation 
 
 # References
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface)
+ 
