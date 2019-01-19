@@ -1,6 +1,4 @@
 # Wheelchair Controlled by Brain Signal
- 
-wheelchair aims disabled people in which they can move using EEG signals from Emotiv
 
 ## Motivation
 
@@ -66,6 +64,15 @@ The BCI chair for disabled people project was executed, with signal accuracy of 
 
 # Installation 
 
+`pip install socket`
+
+`pip install serial`
+
+`pip install arduino`
+
+`pip install` 
+
+`pip install`
 
 # References
 
