@@ -2,8 +2,6 @@
  
 wheelchair aims disabled people in which they can move using EEG signals from Emotiv
 
-# Introduction
-
 ## Motivation
 
 The 2013 [WHO](https://www.who.int/) report states that there is 1 billion human being facing some sort of disability
@@ -63,6 +61,7 @@ There are three components:
 - [Tenchologya Interview](https://www.youtube.com/watch?v=LN_7vt4fjq4&t=7s)
 
 # Installation 
+
 
 # References
 
