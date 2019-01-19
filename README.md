@@ -37,14 +37,14 @@ There are three components:
 
 - Communication (Input: Neural Network output, Output Signals to Wheelchair controller).
 
-- Wheelchair controller (Ardunio, Ultrasonics sensors, Servo motors, DC motors and Bluetooth module).
+- Wheelchair controller (Arduino, Ultrasonics sensors, Servo motors, DC motors and Bluetooth module).
 
 
 ![all](https://github.com/montaserFath/Wheelchair-controlled-by-Brain-Signal/blob/master/images/bci.png)
 
 # Results
 
-The BCI chair for disabled people project was executed, with signal accuracy of 74.24% and 83.33% for cognitive (thinking) signals and facial expression signals, respectively. This accuracy is appropriate for electronic gaming, educational and showcase systems, nevertheless this accuracy is subject to enhancement and further research to serve for optimization of a project which needs maximum accuracy.
+The BCI chair for disabled people project was executed, with signal accuracy of **74.24% and 83.33%** for cognitive (thinking) signals and facial expression signals, respectively. This accuracy is appropriate for electronic gaming, educational and showcase systems, nevertheless this accuracy is subject to enhancement and further research to serve for optimization of a project which needs maximum accuracy.
 
 # Prizes
 
