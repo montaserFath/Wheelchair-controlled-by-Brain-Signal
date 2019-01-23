@@ -67,9 +67,7 @@ The BCI chair for disabled people project was executed, with signal accuracy of 
 ```
 pip install socket
 pip install serial
-pip install arduino
-pip install
-pip install
+sudo adduser $USER dialout
 ```
 
 # References
